@@ -1,0 +1,6 @@
+datos/crudos/
+datos/procesados/*.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
