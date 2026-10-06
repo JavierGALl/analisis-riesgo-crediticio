@@ -4,3 +4,6 @@ datos/procesados/*.csv
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# Entorno virtual
+.venv/
